@@ -1,4 +1,4 @@
-name: WebApp Docker Image
+name: WebApp Docker Image.
 
 on:
   push:
